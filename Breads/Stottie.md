@@ -10,7 +10,7 @@ Makes 1 large or two small.
 - 100ml Cold Milk
 - A little extra cold water
 - ¼ tsp Sugar
-- 3g Yeast for Bread Machines
+- 3g Easyblend Yeast
 - Salt to taste
 
 ## Method
@@ -23,5 +23,5 @@ Makes 1 large or two small.
 1. Allow to rise until doubled in size, an hour or more in a warm place.
 1. Roll each ball to a flat round disk ¾" thick.
 1. Flour the end of the rolling pin and use it to form a deep depression in the centre of the disk
-1. Turn the oven on to 200ºC.  The dough only proves once, so allow it to rest while the oven heats up, but it should not stand for more than 10 minutes.
+1. Turn the oven on to 200°C.  The dough only proves once, so allow it to rest while the oven heats up, but it should not stand for more than 10 minutes.
 1. Bake for 15 minutes. Turn off the oven, turn the loaves over and allow to cool in the hot oven.
