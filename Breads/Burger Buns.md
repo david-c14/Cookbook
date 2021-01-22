@@ -14,7 +14,7 @@ These buns are enriched with milk, butter and egg resulting in something superfi
 - 1 tsp Easyblend Yeast
 - Salt to taste
 
----
+##
 
 - 1 tbsp milk to glaze
 
