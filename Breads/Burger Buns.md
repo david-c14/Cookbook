@@ -27,4 +27,5 @@ These buns are enriched with milk, butter and egg resulting in something superfi
 1. Roll each part into a tight ball using a cupped hand on a lightly oiled surface
 1. Place the rolls fairly close together on a prepared baking sheet, and cover loosely
 1. Allow to rise for 1 - 1½ hours
+1. Glaze with milk if a shiny golden finish is desired
 1. Bake for 15 minutes in a pre-heated oven at 200°C
