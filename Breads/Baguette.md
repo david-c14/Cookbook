@@ -7,8 +7,8 @@ Full size baguettes will not fit in a domestic oven
 ## Ingredients
 
 - 250g Strong White Flour (preferably French Type-55)
-- 185ml water
-- 1 tsp yeast for breadmakers
+- 185ml Water
+- 1 tsp Easyblend Yeast
 - Salt to taste
 
 ## Method
@@ -23,7 +23,7 @@ Full size baguettes will not fit in a domestic oven
 1. Generously flour a clean linen cloth and place the loaves onto it.
 1. Pull up the cloth between the loaves so that they are supported by it.
 1. Allow the loaves to prove for a further hour in a warm place. The cloth should help them keep their shape
-1. Preheat the oven to 200ºC.
+1. Preheat the oven to 200°C.
 1. Gently roll the loaves off the cloth onto a prepared baking sheet and give each three long slashes with a sharp knife. 
 If the cloth has been adequately floured then they should not stick
 1. Bake in the oven for 23 minutes.
