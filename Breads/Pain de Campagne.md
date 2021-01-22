@@ -7,7 +7,7 @@ Makes 1 large loaf. Takes 14 - 16 hours
 - 200ml Water
 - 175g White Bread Flour
 - 50g Wholemeal Bread Flour
-- ¼ tsp Yeast for Bread makers
+- ¼ tsp Easyblend Yeast
 
 ---
 
@@ -15,7 +15,7 @@ Makes 1 large loaf. Takes 14 - 16 hours
 - 225g White Bread Flour
 - 50g Wholemeal Bread Flour
 - 25g Rye Flour
-- ½ tsp Yeast for Bread makers
+- ½ tsp Easyblend Yeast
 - ½ tsp Sugar
 - Salt to taste
 
@@ -33,4 +33,4 @@ Makes 1 large loaf. Takes 14 - 16 hours
 1. When the dough is mixed, shape into a tight round ball and place on a prepared baking sheet. Loosely covered.
 1. Allow to rise for 45 minutes.
 1. Slash the top in the traditional way to allow for a final rise in the oven.  Three parallel slashes in the top, followed by three more cross-wise.
-1. Bake in a preheated oven at 200ºC for 30 minutes with steam.
+1. Bake in a preheated oven at 200°C for 30 minutes with steam.
