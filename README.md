@@ -1,6 +1,9 @@
 # Cookbook
 My reference recipes
 
+## Basics
+[Shortcrust Pastry](Basics/Shortcrust%20Pastry.md)
+
 ## Breads
 [Baguette](Breads/Baguette.md)
 
@@ -9,4 +12,9 @@ My reference recipes
 [Pain de Campagne](Breads/Pain%20de%20Campagne.md)
 
 [Stottie](Breads/Stottie.md)
+
+## Savoury
+[Haggis Pasties](Savoury/Haggis%20Pasties.md)
+
+
 
