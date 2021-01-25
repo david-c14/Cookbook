@@ -4,7 +4,7 @@ Makes 6 pasties
 
 ## Ingredients
 
-- 3 quantities (18oz) (Shortcrust Pastry)[../Basics/Shortcrust%20Pastry.md]
+- 3 quantities (18oz) [Shortcrust Pastry](../Basics/Shortcrust%20Pastry.md)
 - 500g Haggis or Vegetarian Haggis
 - 250-300g Potato peeled and diced to 6mm 
 - 250-300g Swede (turnip) peelend and diced to 6mm
