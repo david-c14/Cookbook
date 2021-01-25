@@ -14,7 +14,7 @@ My reference recipes
 [Stottie](Breads/Stottie.md)
 
 ## Savoury
-[Haggis Pasties](Savoury/Haggis%20Pasties.md)
+[Haggis Pasty](Savoury/Haggis%20Pasty.md)
 
 
 
