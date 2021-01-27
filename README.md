@@ -2,6 +2,8 @@
 My reference recipes
 
 ## Basics
+[Duxelle](Basics/Duxelle.md)
+
 [Shortcrust Pastry](Basics/Shortcrust%20Pastry.md)
 
 ## Breads
