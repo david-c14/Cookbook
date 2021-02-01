@@ -34,3 +34,8 @@ Makes 1 large loaf. Takes 14 - 16 hours
 1. Allow to rise for 45 minutes.
 1. Slash the top in the traditional way to allow for a final rise in the oven.  Three parallel slashes in the top, followed by three more cross-wise.
 1. Bake in a preheated oven at 200°C for 30 minutes with steam.
+
+| Size | Approx Weight | Bake Time |
+| -- | -- | -- |
+| 1 Loaf | 840g | 30 minutes |
+| 8 Buns | 105g | 18 minutes |
