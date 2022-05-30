@@ -1,27 +1,25 @@
 # Stottie
 
-Makes 1 large or two small.
+Makes 1 large stottie.
 
 ## Ingredients
 
-- 350g White Bread Flour
-- 100ml Hot water
-- mixed with 
-- 100ml Cold Milk
-- A little extra cold water
+- 6 fl.oz. Milk
+- 8 oz. White Bread Flour
+- ¾ oz. Margarine
 - ¼ tsp Sugar
-- 3g Easyblend Yeast
+- ½ tsp Easyblend Yeast
 - Salt to taste
 
 ## Method
 
-1. Put the dry ingredients into a bowl, taking care to keep the yeast and salt separate
-1. Add the liquid.
-1. Mix into a dough, ideally with an electric mixer using dough hooks. Gradually adding extra cold water until the dough just comes together
-1. Keep mixing until the dough is smooth and elastic. It should stiff and not at all sticky.
-1. Shape into either 1 or 2 rough balls and cover loosely
-1. Allow to rise until doubled in size, an hour or more in a warm place.
-1. Roll each ball to a flat round disk ¾" thick.
-1. Flour the end of the rolling pin and use it to form a deep depression in the centre of the disk
-1. Turn the oven on to 200°C.  The dough only proves once, so allow it to rest while the oven heats up, but it should not stand for more than 10 minutes.
-1. Bake for 15 minutes. Turn off the oven, turn the loaves over and allow to cool in the hot oven.
+1. Put the milk and the margarine into the breadmaker.
+1. Add the flour.
+1. Add the sugar, yeast and salt, keeping the yeast and salt separate.
+1. Mix on a knead only program. I use a pasta dough program which warms and kneads for 13 minutes and then stops.
+1. Take out the dough which will probably be dry but quite sticky.
+1. Press out to a flat disk about 1½ to 2 cm thick.
+1. Make a hole in the centre.
+1. Cover and leave to rise for 1 to 2 hours.
+1. Bake at 200°C for 15 minutes.
+1. Turn off the oven, turn the bread over and leave in the cooling oven for another 5 minutes.
