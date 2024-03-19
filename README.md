@@ -6,6 +6,8 @@ My reference recipes
 
 [Shortcrust Pastry](Basics/Shortcrust%20Pastry.md)
 
+[Marinara Sauce](Basics/Marinara.md)
+
 ## Breads
 [800g White](Breads/800g%20White%20Loaf.md)
 
