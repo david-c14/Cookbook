@@ -21,6 +21,9 @@ My reference recipes
 
 [Stottie](Breads/Stottie.md)
 
+## Sweets
+[Chocolate Cake](Sweets/Chocolate%20Cake.md)
+
 ## Savoury
 [Haggis Pasty](Savoury/Haggis%20Pasty.md)
 
