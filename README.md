@@ -27,5 +27,7 @@ My reference recipes
 ## Savoury
 [Haggis Pasty](Savoury/Haggis%20Pasty.md)
 
+[Potato Farls](Savoury/Potato%20Farls.md)
+
 
 
